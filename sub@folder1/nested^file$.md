@@ -15,7 +15,8 @@ Links: [text](https://example.com)
 
 Images: ![alt](image.png)
 
-Code blocks:
+Code blocks:![Uploading file_example_JPG_1MB.jpg…]()
+
 
 Inline: `code`
 
